@@ -2,6 +2,9 @@
 
 This is a simple chat application that allows users to send messages to a backend server. The backend server, implemented using Flask, performs sentiment analysis on the received messages to determine whether they are positive, negative, or neutral. The sentiment analysis is done using the TextBlob library.
 
+![Chat Application Screenshot](app.png)
+
+
 ## Features
 
 - Users can type and send messages in the chat interface.

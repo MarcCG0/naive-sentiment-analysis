@@ -31,3 +31,14 @@ body {
     text-wrap: balance;
   }
 }
+
+.chatbot-header {
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Courier';
+}
+
+.chatbot-header h1 {
+  font-size: 24px;
+}
